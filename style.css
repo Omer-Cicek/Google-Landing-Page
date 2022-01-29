@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+.header-div {
+  margin: 10px;
+  padding: 10px;
+}
+.top-divs {
+  padding: 10px;
+  color: rgb(83, 81, 81);
+}
+.left-div {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+.right-div {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.top-divs:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.top-divs:active {
+  transform: scale(0.98);
+}
+
+.nine-dots img {
+  width: 30px;
+  height: 30px;
+  opacity: 0.6;
+}
+
+.nine-dots img:hover {
+  opacity: 1;
+}
+
+.gmail-avatar {
+  background-color: #1a73e8;
+  padding: 8px;
+  border-radius: 5px;
+  color: #fff;
+}
+.gmail-avatar:hover {
+  text-decoration: none;
+}
+.gmail-avatar:active {
+  transform: scale(0.98);
+}
+.main-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 60vh;
+}
+.search {
+  border: 1px rgb(199, 194, 194) solid;
+  display: flex;
+  flex-direction: row;
+  border-radius: 50px;
+}
+.search-mag {
+  width: 25px;
+  height: 25px;
+  border-radius: 50px;
+  margin: auto;
+  padding-left: 3px;
+  padding-top: 3px;
+}
+.search-mic {
+  width: 20px;
+  height: 20px;
+  padding-top: 5px;
+  padding-right: 10px;
+}
+.search-input {
+  width: 400px;
+  height: 100%;
+  border: none;
+  font-size: 17px;
+}
+.search .input-bar input:focus {
+  outline: none;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.double-btn button {
+  margin: auto 10px;
+  padding: 10px;
+  width: 140px;
+  height: 40px;
+  border: none;
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  color: grey;
+}
+.double-btn button:hover {
+  cursor: pointer;
+  color: rgb(83, 81, 81);
+}
+.double-btn button:active {
+  transform: scale(0.98);
+}
+.dropdown-list {
+  outline: none;
+  border: none;
+  color: blue;
+  appearance: none;
+}
+.other-lang {
+  color: rgb(83, 81, 81);
+}
+.turkey {
+  width: 100%;
+  border-bottom: 1px rgb(199, 194, 194) solid;
+  position: absolute;
+  bottom: 55px;
+  height: 30px;
+  margin: 10px;
+  padding-left: 15px;
+  color: rgb(83, 81, 81);
+}
+.div-downside {
+  display: flex;
+  justify-content: space-between;
+}
+.bottom-divs-left {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  margin: 15px;
+}
+.div-bottom-right {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin: 15px;
+}
