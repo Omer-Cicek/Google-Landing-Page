@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-Thanks to visit my Github! In this project, i used flexbox. This project is created with HTML and CSS. Here is the link for this project (https://omer-cicek.github.io/Etherium-Project/)
+Thanks to visit my Github! In this project, i used flexbox. This project is created with HTML and CSS. Here is the link for this project (https://omer-cicek.github.io/Google-Landing-Page/)
 
 ## Description
 Project aims to create google landing page.
@@ -11,13 +11,6 @@ Project aims to create google landing page.
 
 - Your company has recently started on a project that aims to create a landing page. So you and your colleagues have started to work on the project.
 
-## Expected Outcome
-
-![Project 002 Snapshot](Project_002_.png)
-
-## Objective
-
-Build a Landing that is functionally similar to this: [Google Landing Page](https://aaron-clarusway.github.io/google-landing--page/)
 
 ### At the end of the project, following topics are to be covered;
 
@@ -30,7 +23,7 @@ Build a Landing that is functionally similar to this: [Google Landing Page](http
 - CSS Setting height and width-CSS Outline-CSS Combinators
 
 
-### At the end of the project, students will be able to;
+### At the end of the project, i learned;
 
 - improve coding skills within HTML & CSS
 
