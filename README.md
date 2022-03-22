@@ -29,3 +29,9 @@ Project aims to create google landing page.
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
+## Got feedback for me?
+
+Feedbacks are always improve my technical knowledge, so feel free to give me a feedback through my LinkedIn account (https://www.linkedin.com/in/omercicek97/) 🙌
+
+**That Is What I Did!** 🚀
+
