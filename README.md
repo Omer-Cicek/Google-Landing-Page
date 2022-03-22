@@ -1,30 +1,15 @@
 ## Project-002 :Google Landing Page (HC-02)
 
+## Welcome! 👋
+
+Thanks to visit my Github! In this project, i used flexbox. This project is created with HTML and CSS. Here is the link for this project (https://omer-cicek.github.io/Etherium-Project/)
+
 ## Description
 Project aims to create google landing page.
 
 ## Problem Statement
 
 - Your company has recently started on a project that aims to create a landing page. So you and your colleagues have started to work on the project.
-
-## Project Skeleton 
-
-```
-002-google-landing-page (folder)
-|
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Definition of the project)   
-        |----appicon.png   
-        |----gfavicon.png
-		|----google_microphone.png
-		|----googlelogo.png
-		|----icon-menu.jpg
-		|----magnifying_glass.png
-|----solution
-        |----index.html  
-        |----style.css   
-        |----images
-```
 
 ## Expected Outcome
 
