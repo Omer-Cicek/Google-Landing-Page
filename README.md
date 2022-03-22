@@ -1,6 +1,3 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 ## Project-002 :Google Landing Page (HC-02)
 
 ## Description
@@ -53,24 +50,4 @@ Build a Landing that is functionally similar to this: [Google Landing Page](http
 - improve coding skills within HTML & CSS
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Create Google Landing Page
-
-
-## Notes
-
-- You can use HTML,and CSS to complete this project.
-
-## Resources
-
--  [Images](./images)
-
-
-<center> ⌛ Happy Coding  ✍ </center>
 
